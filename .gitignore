@@ -1,6 +1,6 @@
+/data/
 *.pyc
 *.csv
-/data/
 __pycache__
 *.env
 
